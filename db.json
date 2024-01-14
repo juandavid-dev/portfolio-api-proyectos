@@ -3,7 +3,7 @@
         {
           "id":1,
           "nombre": "Página de Producto",
-          "descripcion": "En este proyecto, creé una página web de producto con carrito y otras características, para su construcción utilice React.js y SCSS.",
+          "descripcion": "Construcción de un clon de página web de producto con carrito y otras características, para su desarrollo utilice React.js y SCSS.",
           "tecnologias":["fa-react","fa-sass"],
           "imagenURL": "pagina-producto.jpg",
           "codigoURL": "producto-movies",
@@ -12,7 +12,7 @@
         {
           "id":2,
           "nombre": "Cotizador de Criptomonedas",
-          "descripcion": "En este proyecto, creé una web app para cotizar criptomonedas, para su construcción utilice React.js y styled components.",
+          "descripcion": "Consumo de un api y construcción de la web app para cotizar criptomonedas, para su desarrollo utilice React.js y styled components.",
           "tecnologias":["fa-react","fa-css3-alt"],
           "imagenURL": "cotizador-cripto.jpg",
           "codigoURL": "cotizador-criptos-react",
@@ -21,7 +21,7 @@
         {
           "id":3,
           "nombre": "Seguimiento Pacientes para una Veterinaria",
-          "descripcion": "En este proyecto, creé una web app para de citas para una veterinaria, para su construcción utilice React.js y Tailwind CSS.",
+          "descripcion": "Construcción de una web app para de citas para una veterinaria con almacenamiento en localStorage, para su desarrollo utilice React.js y Tailwind CSS.",
           "tecnologias":["fa-react","fa-css3-alt"],
           "imagenURL": "citas-veterinaria.png",
           "codigoURL": "citas-react",
@@ -30,7 +30,7 @@
         {
           "id":4,
           "nombre": "Web App Control de Ingresos",
-          "descripcion": "En este proyecto, creé una web app una para el control de ingresos y gastos, para su construcción utilice React.js y CSS.",
+          "descripcion": "Construcción de una web app para el control de ingresos y gastos con almacenamiento en localStorage, para su desarrollo utilice React.js y CSS.",
           "tecnologias":["fa-react","fa-css3-alt"],
           "imagenURL": "control-gastos.jpg",
           "codigoURL": "control-presupuesto-react",
@@ -39,7 +39,7 @@
         {
           "id":5,
           "nombre": "Clon Firefox Monitor",
-          "descripcion": "En este proyecto, recree un sitio web responsive Firefox Monitor, para su construcción utilice HTML, CSS y JS.",
+          "descripcion": "Construcción de un clon del sitio web Firefox Monitor, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
           "imagenURL": "firefox-monitor.jpg",
           "codigoURL": "firefox-monitor",
@@ -48,7 +48,7 @@
         {
           "id":6,
           "nombre": "Página Tienda de Frutas",
-          "descripcion": "En este proyecto, creé una pagina de para una tienda de frutas responsive, para su construcción utilice HTML, JS y CSS.",
+          "descripcion": "Construcción de una pagina web para una tienda de frutas ficticia, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
           "imagenURL": "tienda-frutas.jpg",
           "codigoURL": "sitio-tienda-frutas",
@@ -57,7 +57,7 @@
         {
           "id":7,
           "nombre": "Carrito de Compras",
-          "descripcion": "En este proyecto, creé un carrito de compras responsive, para su construcción utilice HTML, JS, CSS y Bootstrap.",
+          "descripcion": "Construcción de un carrito de compras responsive, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
           "imagenURL": "shopping-cart.png",
           "codigoURL": "carrito-bootstrap-js",
@@ -66,7 +66,7 @@
         {
           "id":8,
           "nombre": "Formulario con Validaciones",
-          "descripcion": "En este proyecto, cree un formulario con condiciones de envío y validaciones visuales, para su construcción utilice HTML, JS, CSS y Bootstrap.",
+          "descripcion": "Construcción de un formulario con condiciones de envío y validaciones visuales en tiempo real, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
           "imagenURL": "form-validation.png",
           "codigoURL": "form_contact-bootstrap-js",
@@ -75,7 +75,7 @@
         {
           "id":9,
           "nombre": "Encriptador de Texto",
-          "descripcion": "En este proyecto, creé un encriptador de texto bidireccional y responsive, para su construcción utilice HTML, CSS y JS.",
+          "descripcion": "Construcción de un encriptador de texto bidireccional y responsive, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
           "imagenURL": "text-encoder.jpg",
           "codigoURL": "encriptador-de-texto-challenges",
@@ -84,7 +84,7 @@
         {
           "id":10,
           "nombre": "Tienda Navideña",
-          "descripcion": "En este proyecto, creé un sitio web responsive para Christmas Store, para su construcción utilice HTML, CSS y JS.",
+          "descripcion": "Construcción de una pagina web para una tienda navideña ficticia, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
           "imagenURL": "christmas-store.jpg",
           "codigoURL": "WebNavidenaResponsive",
@@ -93,7 +93,7 @@
         {
           "id":11,
           "nombre": "Mi Portafolio sin Fremeworks",
-          "descripcion": "Esta es la versión antetior de mi portafolio, para su construcción utilice HTML, CSS y JS.",
+          "descripcion": "Esta es la versión antetior de mi portafolio, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
           "imagenURL": "portafolio-anterior.jpg",
           "codigoURL": "portfolio-jdocdev",
