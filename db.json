@@ -57,7 +57,7 @@
         {
           "id":7,
           "nombre": "Carrito de Compras",
-          "descripcion": "Construcción de un carrito de compras responsive, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
+          "descripcion": "Construcción de una pagina web con carrito de compras ficticia, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
           "imagenURL": "shopping-cart.png",
           "codigoURL": "carrito-bootstrap-js",
