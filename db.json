@@ -31,7 +31,7 @@
           "id":4,
           "nombre": "Buscador de Apis Gratuitas",
           "descripcion": "Consumo de un api y construcción de la web app para buscar apis gratuitas, para su desarrollo utilice Vue.js, Vuex y Bootstrap",
-          "tecnologias":["fa-vuejs","fa-css3-alt, fa-bootstrap"],
+          "tecnologias":["fa-vuejs","fa-css3-alt","fa-bootstrap"],
           "imagenURL": "searchapi-vue.jpg",
           "codigoURL": "apisearch-vue-vuex",
           "previewURL": "https://jdocdev-api-serch.netlify.app/"
