@@ -17,36 +17,9 @@
           "imagenURL": "cotizador-cripto.jpg",
           "codigoURL": "cotizador-criptos-react",
           "previewURL": "https://jdocdev-cotizador-criptomonedas.netlify.app/"
-        },
+        },        
         {
           "id":3,
-          "nombre": "Seguimiento Pacientes para una Veterinaria",
-          "descripcion": "Construcción de una web app para de citas para una veterinaria con almacenamiento en localStorage, para su desarrollo utilice React.js y Tailwind CSS.",
-          "tecnologias":["fa-react","fa-css3-alt"],
-          "imagenURL": "citas-veterinaria.png",
-          "codigoURL": "citas-react",
-          "previewURL": "https://jdocdev-citas-veterinaria.netlify.app/"
-        },
-        {
-          "id":4,
-          "nombre": "Web App Control de Ingresos",
-          "descripcion": "Construcción de una web app para el control de ingresos y gastos con almacenamiento en localStorage, para su desarrollo utilice React.js y CSS.",
-          "tecnologias":["fa-react","fa-css3-alt"],
-          "imagenURL": "control-gastos.jpg",
-          "codigoURL": "control-presupuesto-react",
-          "previewURL": "https://jdocdev-control-presupuesto.netlify.app/"
-        },
-        {
-          "id":5,
-          "nombre": "Clon Firefox Monitor",
-          "descripcion": "Construcción de un clon del sitio web Firefox Monitor, para su desarrollo utilice HTML, CSS y JS.",
-          "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
-          "imagenURL": "firefox-monitor.jpg",
-          "codigoURL": "firefox-monitor",
-          "previewURL": "https://jdocdev.github.io/firefox-monitor/"
-        },
-        {
-          "id":6,
           "nombre": "Página Tienda de Frutas",
           "descripcion": "Construcción de una pagina web para una tienda de frutas ficticia, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
@@ -55,25 +28,61 @@
           "previewURL": "https://jdocdev.github.io/sitio-tienda-frutas/"
         },
         {
+          "id":4,
+          "nombre": "Buscador de Apis Gratuitas",
+          "descripcion": "Consumo de un api y construcción de la web app para buscar apis gratuitas, para su desarrollo utilice Vue.js, Vuex y Bootstrap",
+          "tecnologias":["fa-vuejs","fa-css3-alt, fa-bootstrap"],
+          "imagenURL": "searchapi-vue.jpg",
+          "codigoURL": "apisearch-vue-vuex",
+          "previewURL": "https://jdocdev-api-serch.netlify.app/"
+        },
+        {
+          "id":5,
+          "nombre": "Seguimiento Pacientes para una Veterinaria",
+          "descripcion": "Construcción de una web app para de citas para una veterinaria con almacenamiento en localStorage, para su desarrollo utilice React.js y Tailwind CSS.",
+          "tecnologias":["fa-react","fa-css3-alt"],
+          "imagenURL": "citas-veterinaria.jpg",
+          "codigoURL": "citas-react",
+          "previewURL": "https://jdocdev-citas-veterinaria.netlify.app/"
+        },
+        {
+          "id":6,
+          "nombre": "Web App Control de Ingresos",
+          "descripcion": "Construcción de una web app para el control de ingresos y gastos con almacenamiento en localStorage, para su desarrollo utilice React.js y CSS.",
+          "tecnologias":["fa-react","fa-css3-alt"],
+          "imagenURL": "control-gastos.jpg",
+          "codigoURL": "control-presupuesto-react",
+          "previewURL": "https://jdocdev-control-presupuesto.netlify.app/"
+        },
+        {
           "id":7,
+          "nombre": "Clon Firefox Monitor",
+          "descripcion": "Construcción de un clon del sitio web Firefox Monitor, para su desarrollo utilice HTML, CSS y JS.",
+          "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
+          "imagenURL": "firefox-monitor.jpg",
+          "codigoURL": "firefox-monitor",
+          "previewURL": "https://jdocdev.github.io/firefox-monitor/"
+        },
+        {
+          "id":8,
           "nombre": "Carrito de Compras",
           "descripcion": "Construcción de una pagina web con carrito de compras ficticia, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
-          "imagenURL": "shopping-cart.png",
+          "imagenURL": "shopping-cart.jpg",
           "codigoURL": "carrito-bootstrap-js",
           "previewURL": "https://jdocdev.github.io/carrito-bootstrap-js/"
         },
         {
-          "id":8,
+          "id":9,
           "nombre": "Formulario con Validaciones",
           "descripcion": "Construcción de un formulario con condiciones de envío y validaciones visuales en tiempo real, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
-          "imagenURL": "form-validation.png",
+          "imagenURL": "form-validation.jpg",
           "codigoURL": "form_contact-bootstrap-js",
           "previewURL": "https://jdocdev.github.io/form_contact-bootstrap-js/"
         },
         {
-          "id":9,
+          "id":10,
           "nombre": "Encriptador de Texto",
           "descripcion": "Construcción de un encriptador de texto bidireccional y responsive, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
@@ -82,7 +91,7 @@
           "previewURL": "https://jdocdev.github.io/encriptador-de-texto-challenges/"
         },
         {
-          "id":10,
+          "id":11,
           "nombre": "Tienda Navideña",
           "descripcion": "Construcción de una pagina web para una tienda navideña ficticia, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
@@ -91,7 +100,7 @@
           "previewURL": "https://jdocdev.github.io/WebNavidenaResponsive/"
         },
         {
-          "id":11,
+          "id":12,
           "nombre": "Mi Portafolio sin Fremeworks",
           "descripcion": "Esta es la versión antetior de mi portafolio, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
