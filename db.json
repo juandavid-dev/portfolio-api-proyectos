@@ -2,12 +2,12 @@
     "proyectos": [
         {
           "id":1,
-          "nombre": "Página de Producto",
-          "descripcion": "Construcción de un clon de página web de producto con carrito y otras características, para su desarrollo utilice React.js y SCSS.",
-          "tecnologias":["fa-react","fa-sass"],
-          "imagenURL": "pagina-producto.jpg",
-          "codigoURL": "producto-movies",
-          "previewURL": "https://jdovdev-producto-movies.netlify.app/"
+          "nombre": "Página Tienda de Guitarras",
+          "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice Vue.js y Bootstrap",
+          "tecnologias":["fa-vuejs","fa-js","fa-bootstrap"],
+          "imagenURL": "tienda-guitarras.jpg",
+          "codigoURL": "tienda-guitarras",
+          "previewURL": "https://jdocdev-guitarla.netlify.app/"
         },
         {
           "id":2,
