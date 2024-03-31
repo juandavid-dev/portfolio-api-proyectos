@@ -6,7 +6,7 @@
           "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice Vue.js y Bootstrap",
           "tecnologias":["fa-vuejs","fa-js","fa-bootstrap"],
           "imagenURL": "tienda-guitarras.jpg",
-          "codigoURL": "tienda-guitarras",
+          "codigoURL": "GuitarLa",
           "previewURL": "https://jdocdev-guitarla.netlify.app/"
         },
         {
