@@ -38,7 +38,7 @@
         },
         {
           "id":5,
-          "nombre": "Seguimiento Pacientes para una Veterinaria",
+          "nombre": "Seguimiento Pacientes React",
           "descripcion": "Construcción de una web app para de citas para una veterinaria con almacenamiento en localStorage, para su desarrollo utilice React.js y Tailwind CSS.",
           "tecnologias":["fa-react","fa-css3-alt"],
           "imagenURL": "citas-veterinaria.jpg",
@@ -47,6 +47,15 @@
         },
         {
           "id":6,
+          "nombre": "Seguimiento Pacientes Vue",
+          "descripcion": "Construcción de una web app para de citas para una veterinaria con almacenamiento en localStorage, para su desarrollo utilice Vue.js y Tailwind CSS.",
+          "tecnologias":["fa-vuejs","fa-js","fa-css3-alt"],
+          "imagenURL": "citas-veterinaria-vue3.jpg",
+          "codigoURL": "admin-pacientes-vue3",
+          "previewURL": "https://jdocdev-citas-veterinaria-vue3.netlify.app/"
+        },
+        {
+          "id":7,
           "nombre": "Web App Control de Ingresos",
           "descripcion": "Construcción de una web app para el control de ingresos y gastos con almacenamiento en localStorage, para su desarrollo utilice React.js y CSS.",
           "tecnologias":["fa-react","fa-css3-alt"],
@@ -55,7 +64,7 @@
           "previewURL": "https://jdocdev-control-presupuesto.netlify.app/"
         },
         {
-          "id":7,
+          "id":8,
           "nombre": "Clon Firefox Monitor",
           "descripcion": "Construcción de un clon del sitio web Firefox Monitor, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
@@ -64,7 +73,7 @@
           "previewURL": "https://jdocdev.github.io/firefox-monitor/"
         },
         {
-          "id":8,
+          "id":9,
           "nombre": "Carrito de Compras",
           "descripcion": "Construcción de una pagina web con carrito de compras ficticia, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
@@ -73,7 +82,7 @@
           "previewURL": "https://jdocdev.github.io/carrito-bootstrap-js/"
         },
         {
-          "id":9,
+          "id":10,
           "nombre": "Formulario con Validaciones",
           "descripcion": "Construcción de un formulario con condiciones de envío y validaciones visuales en tiempo real, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
@@ -82,7 +91,7 @@
           "previewURL": "https://jdocdev.github.io/form_contact-bootstrap-js/"
         },
         {
-          "id":10,
+          "id":11,
           "nombre": "Encriptador de Texto",
           "descripcion": "Construcción de un encriptador de texto bidireccional y responsive, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
@@ -91,7 +100,7 @@
           "previewURL": "https://jdocdev.github.io/encriptador-de-texto-challenges/"
         },
         {
-          "id":11,
+          "id":12,
           "nombre": "Tienda Navideña",
           "descripcion": "Construcción de una pagina web para una tienda navideña ficticia, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
@@ -100,13 +109,13 @@
           "previewURL": "https://jdocdev.github.io/WebNavidenaResponsive/"
         },
         {
-          "id":12,
+          "id":13,
           "nombre": "Mi Portafolio sin Fremeworks",
           "descripcion": "Esta es la versión antetior de mi portafolio, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
           "imagenURL": "portafolio-anterior.jpg",
           "codigoURL": "portfolio-jdocdev",
           "previewURL": "https://jdocdev.github.io/portfolio-jdocdev/"
-        }
+        }        
       ]
 }
