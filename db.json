@@ -2,10 +2,10 @@
     "proyectos": [
         {
           "id":1,
-          "nombre": "Guitar House Tienda de Guitarras",
+          "nombre": "Guitar House Tienda",
           "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice React.js, Bootstrap y CSS",
           "tecnologias":["fa-react","fa-bootstrap","fa-css3-alt"],
-          "imagenURL": "guitar-house-react.jpg",
+          "imagenURL": "guitar-house-react.png",
           "codigoURL": "GuitarHouse-React.js",
           "previewURL": "https://jdocdev-guitarhouse-reactjs.netlify.app/"
         },
