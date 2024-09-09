@@ -2,12 +2,12 @@
     "proyectos": [
         {
           "id":1,
-          "nombre": "Página Tienda de Guitarras",
-          "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice Vue.js y Bootstrap",
-          "tecnologias":["fa-vuejs","fa-js","fa-bootstrap"],
-          "imagenURL": "tienda-guitarras.jpg",
-          "codigoURL": "GuitarLa",
-          "previewURL": "https://jdocdev-guitarla.netlify.app/"
+          "nombre": "Guitar House Tienda de Guitarras",
+          "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice React.js, Bootstrap y CSS",
+          "tecnologias":["fa-react","fa-bootstrap","fa-css3-alt"],
+          "imagenURL": "guitar-house-react.jpg",
+          "codigoURL": "GuitarHouse-React.js",
+          "previewURL": "https://jdocdev-guitarhouse-reactjs.netlify.app/"
         },
         {
           "id":2,
@@ -29,12 +29,12 @@
         },
         {
           "id":4,
-          "nombre": "Buscador de Apis Gratuitas",
-          "descripcion": "Consumo de un api y construcción de la web app para buscar apis gratuitas, para su desarrollo utilice Vue.js, Vuex y Bootstrap",
-          "tecnologias":["fa-vuejs","fa-css3-alt","fa-bootstrap"],
-          "imagenURL": "searchapi-vue.jpg",
-          "codigoURL": "apisearch-vue-vuex",
-          "previewURL": "https://jdocdev-api-serch.netlify.app/"
+          "nombre": "Página Tienda de Guitarras",
+          "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice Vue.js y Bootstrap",
+          "tecnologias":["fa-vuejs","fa-js","fa-bootstrap"],
+          "imagenURL": "tienda-guitarras.jpg",
+          "codigoURL": "GuitarLa",
+          "previewURL": "https://jdocdev-guitarla.netlify.app/"
         },
         {
           "id":5,
@@ -107,15 +107,6 @@
           "imagenURL": "christmas-store.jpg",
           "codigoURL": "WebNavidenaResponsive",
           "previewURL": "https://jdocdev.github.io/WebNavidenaResponsive/"
-        },
-        {
-          "id":13,
-          "nombre": "Mi Portafolio sin Fremeworks",
-          "descripcion": "Esta es la versión antetior de mi portafolio, para su desarrollo utilice HTML, CSS y JS.",
-          "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
-          "imagenURL": "portafolio-anterior.jpg",
-          "codigoURL": "portfolio-jdocdev",
-          "previewURL": "https://jdocdev.github.io/portfolio-jdocdev/"
-        }        
+        }     
       ]
 }
