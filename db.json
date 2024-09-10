@@ -2,7 +2,7 @@
     "proyectos": [
         {
           "id":1,
-          "nombre": "Guitar House Tienda",
+          "nombre": "Carrito - Guitar House",
           "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice React, TypeScript, Bootstrap y CSS",
           "tecnologias":["fa-react","bi-filetype-tsx","fa-bootstrap","fa-css3-alt"],
           "imagenURL": "guitar-house-react.png",
@@ -11,7 +11,7 @@
         },
         {
           "id":2,
-          "nombre": "Cotizador de Criptomonedas",
+          "nombre": "Web App - Criptomonedas",
           "descripcion": "Consumo de un api y construcción de la web app para cotizar criptomonedas, para su desarrollo utilice React.js y styled components.",
           "tecnologias":["fa-react","fa-js","fa-css3-alt"],
           "imagenURL": "cotizador-cripto.jpg",
@@ -20,7 +20,7 @@
         },        
         {
           "id":3,
-          "nombre": "Página Tienda de Frutas",
+          "nombre": "Web - Tienda de frutas",
           "descripcion": "Construcción de una pagina web para una tienda de frutas ficticia, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
           "imagenURL": "tienda-frutas.jpg",
@@ -29,7 +29,7 @@
         },
         {
           "id":4,
-          "nombre": "Página Tienda de Guitarras",
+          "nombre": "Carrito - Guitar LA",
           "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice Vue.js y Bootstrap",
           "tecnologias":["fa-vuejs","fa-js","fa-bootstrap"],
           "imagenURL": "tienda-guitarras.jpg",
@@ -38,7 +38,7 @@
         },
         {
           "id":5,
-          "nombre": "Seguimiento Pacientes React",
+          "nombre": "Web App - Veterinaria",
           "descripcion": "Construcción de una web app para de citas para una veterinaria con almacenamiento en localStorage, para su desarrollo utilice React.js y Tailwind CSS.",
           "tecnologias":["fa-react","fa-js","fa-css3-alt"],
           "imagenURL": "citas-veterinaria.jpg",
@@ -47,7 +47,7 @@
         },
         {
           "id":6,
-          "nombre": "Seguimiento Pacientes Vue",
+          "nombre": "Web App - Veterinaria",
           "descripcion": "Construcción de una web app para de citas para una veterinaria con almacenamiento en localStorage, para su desarrollo utilice Vue.js y Tailwind CSS.",
           "tecnologias":["fa-vuejs","fa-js","fa-css3-alt"],
           "imagenURL": "citas-veterinaria-vue3.jpg",
@@ -56,16 +56,16 @@
         },
         {
           "id":7,
-          "nombre": "Web App Control de Ingresos",
+          "nombre": "Web App - Finanzas",
           "descripcion": "Construcción de una web app para el control de ingresos y gastos con almacenamiento en localStorage, para su desarrollo utilice React.js y CSS.",
-          "tecnologias":["fa-react","fa-css3-alt"],
+          "tecnologias":["fa-react","fa-js","fa-css3-alt"],
           "imagenURL": "control-gastos.jpg",
           "codigoURL": "control-presupuesto-react",
           "previewURL": "https://jdocdev-control-presupuesto.netlify.app/"
         },
         {
           "id":8,
-          "nombre": "Clon Firefox Monitor",
+          "nombre": "Web - Firefox Monitor",
           "descripcion": "Construcción de un clon del sitio web Firefox Monitor, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
           "imagenURL": "firefox-monitor.jpg",
@@ -74,7 +74,7 @@
         },
         {
           "id":9,
-          "nombre": "Carrito de Compras",
+          "nombre": "Carrito - Productos tecnología",
           "descripcion": "Construcción de una pagina web con carrito de compras ficticia, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
           "imagenURL": "shopping-cart.jpg",
@@ -83,7 +83,7 @@
         },
         {
           "id":10,
-          "nombre": "Formulario con Validaciones",
+          "nombre": "Validaciones - Tiempo real",
           "descripcion": "Construcción de un formulario con condiciones de envío y validaciones visuales en tiempo real, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
           "imagenURL": "form-validation.jpg",
@@ -92,7 +92,7 @@
         },
         {
           "id":11,
-          "nombre": "Encriptador de Texto",
+          "nombre": "Web App - Encriptador",
           "descripcion": "Construcción de un encriptador de texto bidireccional y responsive, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
           "imagenURL": "text-encoder.jpg",
@@ -101,7 +101,7 @@
         },
         {
           "id":12,
-          "nombre": "Tienda Navideña",
+          "nombre": "Web - Tienda Navideña",
           "descripcion": "Construcción de una pagina web para una tienda navideña ficticia, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
           "imagenURL": "christmas-store.jpg",
