@@ -3,7 +3,7 @@
         {
           "id":1,
           "nombre": "Menú - Starbucks",
-          "descripcion": "Construcción de una pagina web para toma de pedidos, para su desarrollo utilice React, TypeScript y Tailwind CSS",
+          "descripcion": "Construcción de una pagina web para toma de pedidos de un restaurante, para su desarrollo utilice React, TypeScript y Tailwind CSS.",
           "tecnologias":["fa-react","bi-filetype-tsx","fa-css3-alt"],
           "imagenURL": "menu-starbucks.png",
           "codigoURL": "calculadora-propinas-ts",
@@ -12,7 +12,7 @@
         {
           "id":2,
           "nombre": "Carrito - Guitar House",
-          "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice React, TypeScript, Bootstrap y CSS",
+          "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice React, TypeScript, Bootstrap y CSS.",
           "tecnologias":["fa-react","bi-filetype-tsx","fa-bootstrap","fa-css3-alt"],
           "imagenURL": "guitar-house-react.png",
           "codigoURL": "GuitarHouse-React.ts",
@@ -39,7 +39,7 @@
         {
           "id":5,
           "nombre": "Carrito - Guitar LA",
-          "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice Vue.js y Bootstrap",
+          "descripcion": "Construcción de una pagina web para una tienda de guitarras ficticia, para su desarrollo utilice Vue.js y Bootstrap.",
           "tecnologias":["fa-vuejs","fa-js","fa-bootstrap"],
           "imagenURL": "tienda-guitarras.jpg",
           "codigoURL": "GuitarLa",
