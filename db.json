@@ -76,13 +76,22 @@
           "id":9,
           "nombre": "Web - Firefox Monitor",
           "descripcion": "Construcción de un clon del sitio web Firefox Monitor, para su desarrollo utilice HTML, CSS y JS.",
-          "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
+          "tecnologias":["fa-react","bi-filetype-tsx","fa-css3-alt"],
           "imagenURL": "firefox-monitor.jpg",
           "codigoURL": "firefox-monitor",
           "previewURL": "https://jdocdev.github.io/firefox-monitor/"
         },
         {
           "id":10,
+          "nombre": "Wen App - Control de calorías",
+          "descripcion": "Construcción de una web app para seguimiento calorico, para su desarrollo utilice React, TypeScript y Tailwind CSS.",
+          "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
+          "imagenURL": "calorie-tracker.png",
+          "codigoURL": "calorie-tracker-react-ts",
+          "previewURL": "https://jdocdev-calorie-tracker-react-ts.netlify.app/"
+        },
+        {
+          "id":11,
           "nombre": "Carrito - Productos tecnología",
           "descripcion": "Construcción de una pagina web con carrito de compras ficticia, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
@@ -91,7 +100,7 @@
           "previewURL": "https://jdocdev.github.io/carrito-bootstrap-js/"
         },
         {
-          "id":11,
+          "id":12,
           "nombre": "Validaciones - Tiempo real",
           "descripcion": "Construcción de un formulario con condiciones de envío y validaciones visuales en tiempo real, para su desarrollo utilice HTML, JS, CSS y Bootstrap.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js","fa-bootstrap"],
@@ -100,7 +109,7 @@
           "previewURL": "https://jdocdev.github.io/form_contact-bootstrap-js/"
         },
         {
-          "id":12,
+          "id":13,
           "nombre": "Web App - Encriptador",
           "descripcion": "Construcción de un encriptador de texto bidireccional y responsive, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
@@ -109,7 +118,7 @@
           "previewURL": "https://jdocdev.github.io/encriptador-de-texto-challenges/"
         },
         {
-          "id":13,
+          "id":14,
           "nombre": "Web - Tienda Navideña",
           "descripcion": "Construcción de una pagina web para una tienda navideña ficticia, para su desarrollo utilice HTML, CSS y JS.",
           "tecnologias":["fa-html5","fa-css3-alt","fa-js"],
